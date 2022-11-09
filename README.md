@@ -32,6 +32,12 @@ Coming Soon™
 
 [Source Code](https://github.com/SourPatchNom/FiveSPN---PLayer)
 
+### FiveSPN-Clock
+
+FiveSPN-Clock is a FiveM server resource that will sync all players game time to a real world time, or a scaled time. Want the server to be evening everyday at noon? Want longer day night cycles? This is your answer! 
+
+[Source Code](https://github.com/SourPatchNom/FiveSPN---Clock)
+
 ### FiveSPN-Weather
 
 FiveSPN-Weather is a FiveM resource that syncs the game server weather between all players to up to four real world locations or a global override set by a server admin from within the game.
