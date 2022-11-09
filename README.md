@@ -74,6 +74,12 @@ Coming Soon™
 
 [Source Code](https://github.com/SourPatchNom/FiveSPN---Flashy)
 
+### FiveSPN-BioGen
+
+FiveSPN-BioGen is a FiveM resource for generating random names and dates of birth for online server gameplay. These names can be used to quickly create personas for role-players or to generate information given to game AI. FiveSPN-Persona and FiveSPN-Ai use this resource.
+
+[Source Code](https://github.com/SourPatchNom/FiveSPN---BioGen)
+
 ## Contributing
 Pull requests are welcome on individual resources. Find more details in resource repositories.
 
