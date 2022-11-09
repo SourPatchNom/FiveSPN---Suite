@@ -34,7 +34,7 @@ Coming Soon™
 
 ### FiveSPN-Weather
 
-Coming Soon™
+FiveSPN-Weather is a FiveM resource that syncs the game server weather between all players to up to four real world locations or a global override set by a server admin from within the game.
 
 [Source Code](https://github.com/SourPatchNom/FiveSPN---Weather)
 
